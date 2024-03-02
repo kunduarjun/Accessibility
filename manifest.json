@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Accesable parking lot checker",
+    "description": "Check for accesable parking availability",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "accesabilityIcon.png"
+    },
+
+    "permissions": ["activeTab"]
+}
