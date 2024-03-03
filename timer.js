@@ -1,17 +1,26 @@
 // Get the timer element
-var timerElement = document.getElementById('timer');
-
-// Set initial time
 var seconds = 0;
+var timerId = setInterval(updateTimer, 1000); // Update every 1 second
+
+
+
+// Start the timer
+
+window.onload = function(){
+  var timerElement = document.getElementById('clickMeButton');
+  var pElement = document.querySelector('p');
+  
+  
+  // Set initial time
+  setTimeout();
+}
+
 
 // Function to update the timer
 function updateTimer() {
   seconds++;
   timerElement.textContent = seconds;
 }
-
-// Start the timer
-var timerId = setInterval(updateTimer, 1000); // Update every 1 second
 
 // Stop the timer after 10 seconds (for demonstration)
 setTimeout(function() {
