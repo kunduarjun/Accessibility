@@ -2,6 +2,7 @@
 
 This project is for the 2024 Mount Allison Hackathon. 
 
+https://docs.google.com/presentation/d/19ilG5CRj_v6VO-Yh04ym4Jcfu71z1HPpgZdhYMtSOpM/edit?usp=sharing
 
 ![image](https://github.com/kunduarjun/Accessibility/assets/119776414/066569b7-1199-4b06-9a83-f27306af3620)
 
